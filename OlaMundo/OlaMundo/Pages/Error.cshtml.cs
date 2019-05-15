@@ -15,6 +15,7 @@ namespace OlaMundo.Pages
         public void OnGet()
         {
             Message = "Qual é a minha mensagem a declarar?";
+            Message = "onde estou?";
         }
     }
 }
